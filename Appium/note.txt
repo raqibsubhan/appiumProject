@@ -1,0 +1,4 @@
+Jenkin: continueous 
+
+go to the level where the war file is and(in cmd):
+java -jar jenkins.war -httpPort=8080 
